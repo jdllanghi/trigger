@@ -1,4 +1,4 @@
-rear un función y un trigger para validar que el numero de cedula del cliente tenga 10 números (no letras) en la tabla cliente.
+crear un función y un trigger para validar que el numero de cedula del cliente tenga 10 números (no letras) en la tabla cliente.
 ![image](https://github.com/user-attachments/assets/4546553a-a642-4325-b759-1e2f41458902)
 
 
